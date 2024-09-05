@@ -1,141 +1,76 @@
-LinkedIn: https://linkedin.com/in/u%C4%9Fur-can-a1a72a209
-Mail: ugurcanmail@yandex.com
+# Uğur CAN - Software Developer
 
-PROFILE
+[LinkedIn](https://linkedin.com/in/u%C4%9Fur-can-a1a72a209) | [Email](mailto:ugurcanmail@yandex.com)
 
-Experienced Software Developer with a strong background in AI, computer vision, and data science. Proven
-track record in developing advanced data analysis software, including Support Vector Machines (SVM),
-Natural Language Processing (NLP), Feature Engineering, Time Series Analysis, and blockchain technology.
-Skilled in OOP, Python, Deep Neural Networks (DNN), Machine Learning, and AR applications. Additionally,
-conducted academic-level research in data science, with a published article in YBS Academy journal. Seeking
-to leverage my expertise to contribute to innovative projects and drive company success.
+## Profile
 
+Experienced Software Developer with a strong background in AI, computer vision, and data science. I have a proven track record of developing advanced data analysis tools, including Support Vector Machines (SVM), Natural Language Processing (NLP), Feature Engineering, Time Series Analysis, and blockchain technology. My technical expertise includes OOP, Python, Deep Neural Networks (DNN), Machine Learning, and AR applications. I have also conducted academic-level research in data science, with a published article in YBS Academy journal. My goal is to apply my expertise in innovative projects and contribute to organizational success.
 
-EDUCATION
+## Education
 
-Bachelor of Science in Computer Engineering (Computer Science)
-Fırat University
+**Bachelor of Science in Computer Engineering (Computer Science)**  
+*Fırat University*  
 Graduated with a GPA of 3.02/4
 
-PROFESSIONAL EXPERIENCE
+## Professional Experience
 
-OptiWisdom ·Intern
-•Conducted performance analysis using various imputation techniques and
-hyperparameter optimization methods to address missing data problems.
-07/2023 – 10/2023
-San Francisco, USA
-•The analysis was accepted as a research paper and published.
+### OptiWisdom · Intern  
+**San Francisco, USA** | 07/2023 – 10/2023  
+- Conducted performance analysis using imputation techniques and hyperparameter optimization to solve missing data problems.  
+- My analysis was published as a research paper.  
 
-NETCAD YAZILIM A.Ş. ·Intern
-•Gained hands-on experience in data science projects.
-07/2022 – 09/2022
-Ankara, Turkey
-•Contributed to team projects by applying machine learning techniques.
-•I conducted a study on creating a whole using imputation techniques from the
-limited data available and transforming this data whole into a 3D model.
+### NETCAD YAZILIM A.Ş. · Intern  
+**Ankara, Turkey** | 07/2022 – 09/2022  
+- Gained hands-on experience in data science projects and contributed by applying machine learning techniques.  
+- Conducted research on using imputation techniques to create a complete dataset and transformed it into a 3D model.
 
+## Publications
 
-PUBLICATIONS
+- **[Solving The Missing Data Problem](https://ybsansiklopedi.com/wp-content/uploads/2023/10/Eksik-Veri-Problemi-1.pdf)**  
+  Uğur CAN, Prof. Dr. Şadi Evren Şeker (YBS Encyclopedia Volume12, Number1, January 2024)  
+  Focuses on addressing missing data in model building by examining 14 imputation methods and comparing results across 4 parameter optimization methods, with XGBoost as the prominent method.
 
-Solving The Missing Data Problem
+- **Real-Time Supervised and Unsupervised Project Trials and Comparative Results**  
+  Uğur CAN, Rifat Taha Çimen, Prof. Dr. İlhan Aydın  
+  Developed real-time supervised and unsupervised systems for detecting collapsed houses (drone footage) and defective products on a production line.
 
-https://ybsansiklopedi.com/wp-content/uploads/2023/10/Eksik-Veri-Problemi-1.pdf
-Uğur CAN, Prof. Dr. Şadi Evren Şeker
-(YBS Encyclopedia Volume12,Number1, January 2024)
-01/01/2024
+## Awards
 
-•This research focuses on the problem of missing data in model building and data
-analysis processes.It examines the performance of 14 different imputation
-methods adapted to address this problem and compares the results obtained with
-4 different parameter optimization methods for those that require parameter
-optimization. This is an experimental study and the performance of the methods
-used may vary from dataset to dataset. The most prominent method for this study
-is the XGBoost method.
+**Vodafone Hackathon**  
+Developed a mobile app for women in 24 hours. The app allows users to access healthy recipes, search for recipes based on ingredients, and share nutritional information.
 
+## Projects
 
-Real-Time Supervised and Unsupervised Project Trials and Comparative Results
-Uğur CAN, Rifat Taha ÇİMEN, Prof. Dr.İlhan Aydın
-09/02/2024
+- **ugurcreative Studios**  
+  Technologies: HTML, CSS, Node.js, JavaScript, React, Angular, ASP.NET Core, Unity, Android Studio, Vuforia (AR), PyGame, Python  
+  Developed and published two games on Google Play Store: *Defend Sparta* and *Jumper Pill Jump* (20,000+ downloads). Created a blog site *viphukukdanismanlik.com*. Worked on various unpublished projects such as a book sales site and multiple games.  
+  **2021 – 2023**
 
-•Automatic detection system for collapsed houses in the Maras earthquake using
-real-time drone camera footage (Supervised)
-•Real-time detection of defective products on the factory production line
-(Unsupervised)
+- **Calculating The Number of People Entering and Exiting From Live Camera Footage**  
+  Developed an object recognition app using live footage to count people in real-time, utilizing deep learning techniques.  
+  **2023**
 
+- **Door Opening With Face Recognition System (TÜBİTAK Project)**  
+  Developed a facial recognition-based security system that opens doors for registered users without model training.  
+  **2023**
 
-AWARDS
+- **Custom Object Recognition App, Trained With Own Database**  
+  Led a team of 18 students to create a custom dataset and trained a model for object recognition using Python, PyTorch, and TensorFlow.  
+  **2022**
 
-Vodafone Hackaton
+- **E-commerce Website with Payment Method**  
+  Developed a textile e-commerce website using Django, integrated with PayPal for payment processing.  
+  **2021**
 
-Within 24 hours we were asked to create an app for women, the choice of ideas was
-free.Me and my team created an app. This app allows users to easily access practical
-and healthy recipes, search for recipes with available ingredients and share
-information about nutritional values.
+## Languages
 
+- Turkish: Native  
+- English: B2
 
-PROJECTS
+## Courses
 
-ugurcreative Studios
-Used Technologies: HTML,CSS,Node, JavaScript, React, Angular, ASP.NET Core, Unity,
-Android Studio, Vuforia (AR), PyGame, Python
-In my own small organization,I developed and published 2 games in the Google Play
-Store, a strategy game called Defend Sparta and an arcade game called Jumper Pill
-Jump. My games have received more than 20,000 downloads in total.I also created a
-blog site called viphukukdanismanlik.com in line with customer demand.I also have
-many unpublished projects such as a book sales site and various games.
-2021 – 2023
-
-Calculating The Number of People Entering and Exiting From Live Camera Footage
-Task giver: Professor Dr. Mehmet Karaköse
-A specialized object recognition app has been developed that uses live camera
-footage to record the number of people entering and exiting a street camera.It uses
-deep learning techniques to accurately detect and count people in real time.
-2023
-
-Door Opening With Face Recognition System (TUBITAK Project)
-Authors: Uğur CAN, Associate Professor Dr. Ahmet ÇINAR
-A security system where the door is opened only when the faces registered in the
-database face the live camera. There is no model training, it is enough to take a
-webcam photo of the face of the person the system wants to detect and put it in the
-folder used by the application.
-2023
-
-Custom Object Recognition App, Trained With Own Database
-Used Technologies: Python, PyTorch, TensorFlow, OpenCV, LabelImg
-I was the leader of a group of 18 computer engineering students. Each student took
-40 photos of an object of their choice and we created a dataset with it, and then we
-trained with this dataset and tested it over the webcam.
-2022
-
-E-commerce Website with Payment Method
-Used Technologies: Django, Python, HTML, CSS, JavaScript, PayPal API, Bootstrap
-Developed a comprehensive e-commerce website for a textile business using Django.
-The site features a user-friendly interface for browsing and purchasing textile
-products.Integrated PayPal for secure and seamless payment processing.
-Implemented functionalities include product catalog management, shopping cart,
-order tracking, and user authentication.
-2021
-
-
-LANGUAGES
-
-Turkish-Native
-
-English-B2
-
-COURSES
-
-End-to-End Data Science for All Levels, with Knime
-Prof. Dr. Şadi Evren ŞEKER
-
-Machine Learning with Python
-Prof.Dr. Şadi Evren ŞEKER
-
-The Complete Machine Learning Course with Python
-Codestars
-
-Learn Computer Vision with OpenCV and Python
-Dr.İbrahim Delibaşoğlu
-
-Modern Web Development Course
-Mustafa Murat Coşgun, Engin Demiroğ
+- **End-to-End Data Science for All Levels, with Knime** – Prof. Dr. Şadi Evren Şeker  
+- **Machine Learning with Python** – Prof. Dr. Şadi Evren Şeker  
+- **The Complete Machine Learning Course with Python** – Codestars  
+- **Learn Computer Vision with OpenCV and Python** – Dr. İbrahim Delibaşoğlu  
+- **Modern Web Development Course** – Mustafa Murat Coşgun, Engin Demiroğ
