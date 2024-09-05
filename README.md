@@ -2,6 +2,7 @@ LinkedIn: https://linkedin.com/in/u%C4%9Fur-can-a1a72a209
 Mail: ugurcanmail@yandex.com
 
 PROFILE
+
 Experienced Software Developer with a strong background in AI, computer vision, and data science. Proven
 track record in developing advanced data analysis software, including Support Vector Machines (SVM),
 Natural Language Processing (NLP), Feature Engineering, Time Series Analysis, and blockchain technology.
@@ -9,12 +10,15 @@ Skilled in OOP, Python, Deep Neural Networks (DNN), Machine Learning, and AR app
 conducted academic-level research in data science, with a published article in YBS Academy journal. Seeking
 to leverage my expertise to contribute to innovative projects and drive company success.
 
+
 EDUCATION
+
 Bachelor of Science in Computer Engineering (Computer Science)
 Fırat University
 Graduated with a GPA of 3.02/4
 
 PROFESSIONAL EXPERIENCE
+
 OptiWisdom ·Intern
 •Conducted performance analysis using various imputation techniques and
 hyperparameter optimization methods to address missing data problems.
@@ -30,12 +34,16 @@ Ankara, Turkey
 •I conducted a study on creating a whole using imputation techniques from the
 limited data available and transforming this data whole into a 3D model.
 
+
 PUBLICATIONS
+
 Solving The Missing Data Problem
+
 https://ybsansiklopedi.com/wp-content/uploads/2023/10/Eksik-Veri-Problemi-1.pdf
 Uğur CAN, Prof. Dr. Şadi Evren Şeker
 (YBS Encyclopedia Volume12,Number1, January 2024)
 01/01/2024
+
 •This research focuses on the problem of missing data in model building and data
 analysis processes.It examines the performance of 14 different imputation
 methods adapted to address this problem and compares the results obtained with
@@ -44,22 +52,29 @@ optimization. This is an experimental study and the performance of the methods
 used may vary from dataset to dataset. The most prominent method for this study
 is the XGBoost method.
 
+
 Real-Time Supervised and Unsupervised Project Trials and Comparative Results
 Uğur CAN, Rifat Taha ÇİMEN, Prof. Dr.İlhan Aydın
 09/02/2024
+
 •Automatic detection system for collapsed houses in the Maras earthquake using
 real-time drone camera footage (Supervised)
 •Real-time detection of defective products on the factory production line
 (Unsupervised)
 
+
 AWARDS
+
 Vodafone Hackaton
+
 Within 24 hours we were asked to create an app for women, the choice of ideas was
 free.Me and my team created an app. This app allows users to easily access practical
 and healthy recipes, search for recipes with available ingredients and share
 information about nutritional values.
 
+
 PROJECTS
+
 ugurcreative Studios
 Used Technologies: HTML,CSS,Node, JavaScript, React, Angular, ASP.NET Core, Unity,
 Android Studio, Vuforia (AR), PyGame, Python
@@ -101,11 +116,15 @@ Implemented functionalities include product catalog management, shopping cart,
 order tracking, and user authentication.
 2021
 
+
 LANGUAGES
+
 Turkish-Native
+
 English-B2
 
 COURSES
+
 End-to-End Data Science for All Levels, with Knime
 Prof. Dr. Şadi Evren ŞEKER
 
