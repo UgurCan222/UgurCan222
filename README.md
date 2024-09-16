@@ -1,6 +1,6 @@
 # Uğur CAN - Software Developer
 
-[LinkedIn](https://linkedin.com/in/u%C4%9Fur-can-a1a72a209) | [Email](mailto:ugurcanmail@yandex.com)
+[LinkedIn](https://linkedin.com/in/u%C4%9Fur-can-a1a72a209) | [Email](mailto:ugurcanmail@yandex.com) | [Code & Chill with Ugur Can](https://www.youtube.com/@ugurcan5433)
 
 ## Profile
 As a recent graduate and Junior Software Developer, I have around 7 months of professional experience as a long-term intern at two different companies. I specialize in Object-Oriented Programming (OOP) and have worked on projects involving AI, computer vision, data science, and blockchain technologies. My experience includes developing software for advanced data analysis, such as Support Vector Machines, Natural Language Processing, Feature Engineering, and Time Series Analysis. I have also conducted academic research in data science, with a publication in the YBS Academy journal. Additionally, I create software-related videos on YouTube [Code & Chill with Ugur Can](https://www.youtube.com/@ugurcan5433), where I share my knowledge and engage with the tech community. I am eager to contribute to innovative projects and help drive company success.
