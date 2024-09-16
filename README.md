@@ -3,8 +3,7 @@
 [LinkedIn](https://linkedin.com/in/u%C4%9Fur-can-a1a72a209) | [Email](mailto:ugurcanmail@yandex.com)
 
 ## Profile
-
-Experienced Software Developer with a strong background in AI, computer vision, and data science. I have a proven track record of developing advanced data analysis tools, including Support Vector Machines (SVM), Natural Language Processing (NLP), Feature Engineering, Time Series Analysis, and blockchain technology. My technical expertise includes OOP, Python, Deep Neural Networks (DNN), Machine Learning, and AR applications. I have also conducted academic-level research in data science, with a published article in YBS Academy journal. As a hobby, I have published two games on Google Play Store and create code tutorial videos on my YouTube channel, [Code & Chill with Ugur Can](https://www.youtube.com/@ugurcan5433). My goal is to apply my expertise in innovative projects and contribute to organizational success.
+As a recent graduate and Junior Software Developer, I have around 7 months of professional experience as a long-term intern at two different companies. I specialize in Object-Oriented Programming (OOP) and have worked on projects involving AI, computer vision, data science, and blockchain technologies. My experience includes developing software for advanced data analysis, such as Support Vector Machines, Natural Language Processing, Feature Engineering, and Time Series Analysis. I have also conducted academic research in data science, with a publication in the YBS Academy journal. Additionally, I create software-related videos on YouTube [Code & Chill with Ugur Can](https://www.youtube.com/@ugurcan5433), where I share my knowledge and engage with the tech community. I am eager to contribute to innovative projects and help drive company success.
 
 ## Education
 
