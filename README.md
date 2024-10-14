@@ -3,7 +3,16 @@
 [LinkedIn](https://linkedin.com/in/u%C4%9Fur-can-a1a72a209) | [Email](mailto:ugurcanmail@yandex.com) | [YouTube Channel](https://www.youtube.com/@ugurcan5433)
 
 ## Profile
-As a recent graduate and Junior Software Developer, I have around 7 months of professional experience as a long-term intern at two different companies. I specialize in Object-Oriented Programming (OOP) and have worked on projects involving AI, computer vision, data science, and blockchain technologies. My experience includes developing software for advanced data analysis, such as Support Vector Machines, Natural Language Processing, Feature Engineering, and Time Series Analysis. I have also conducted academic research in data science, with a publication in the YBS Academy journal. Additionally, I create software-related videos on YouTube [Code & Chill with Ugur Can](https://www.youtube.com/@ugurcan5433), where I share my knowledge and engage with the tech community. I am eager to contribute to innovative projects and help drive company success.
+I graduated from Fırat University Computer Engineering (3,02/4). As a Fullstack Software Developer, I have worked in two different
+I have about 7 months of professional experience as a long-term intern in the company. In addition, I have worked with various companies
+I have done project-based work. I have a good command of Object Oriented Programming (OOP) languages and artificial intelligence,
+I have worked on projects involving computer vision, data science and blockchain technologies. My experience
+such as Support Vector Machines, Natural Language Processing, Feature Engineering and Time Series Analysis
+software development for advanced data analysis. In addition, academic research in the field of data science
+and I had a publication published in YBS Academy magazine. I also have a video on YouTube where I share my knowledge and
+I have a channel where I create software-related videos where I interact with the technology community. Additional
+I publish a lot of projects on my Github. I try to contribute to innovative projects and to promote company success.
+I'm keen to help boost the business.
 
 ## Education
 
