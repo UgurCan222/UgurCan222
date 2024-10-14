@@ -3,16 +3,7 @@
 [LinkedIn](https://linkedin.com/in/u%C4%9Fur-can-a1a72a209) | [Email](mailto:ugurcanmail@yandex.com) | [YouTube Channel](https://www.youtube.com/@ugurcan5433)
 
 ## Profile
-I graduated from Fırat University Computer Engineering (3,02/4). As a Fullstack Software Developer, I have worked in two different
-I have about 7 months of professional experience as a long-term intern in the company. In addition, I have worked with various companies
-I have done project-based work. I have a good command of Object Oriented Programming (OOP) languages and artificial intelligence,
-I have worked on projects involving computer vision, data science and blockchain technologies. My experience
-such as Support Vector Machines, Natural Language Processing, Feature Engineering and Time Series Analysis
-software development for advanced data analysis. In addition, academic research in the field of data science
-and I had a publication published in YBS Academy magazine. I also have a video on YouTube where I share my knowledge and
-I have a channel where I create software-related videos where I interact with the technology community. Additional
-I publish a lot of projects on my Github. I try to contribute to innovative projects and to promote company success.
-I'm keen to help boost the business.
+I am a graduate of Fırat University, holding a degree in Computer Engineering (3.02/4). As a Fullstack Software Developer, I have approximately 7 months of professional experience as a long-term intern in two different companies. Additionally, I have participated in project-based work with various firms. I am proficient in Object-Oriented Programming (OOP) languages and have worked on projects involving artificial intelligence, computer vision, data science, and blockchain technologies. My experience includes software development for advanced data analysis techniques such as Support Vector Machines, Natural Language Processing, Feature Engineering, and Time Series Analysis. Furthermore, I have conducted academic research in the field of data science, resulting in a publication in the YBS Academy journal. I also run a YouTube channel where I create software-related videos to share my knowledge and engage with the technology community. Additionally, I publish numerous projects on my GitHub. I am eager to contribute to innovative projects and help enhance company success.
 
 ## Education
 
